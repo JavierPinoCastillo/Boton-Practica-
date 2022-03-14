@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.search{
+    height: 20px;
+    width: auto;
+    background-color: white;
+    color: cadetblue;
+    border: 1px solid cadetblue;
+    border-radius: 25%;
+    padding: 14px;
+}
+
+.plus{
+    background-color: deepskyblue;
+    color: white;
+    border-radius: 50%;
+    border: none;
+    height: 30px;
+    width: 30px;
+
+}
+
+.createaccount{
+    background-color: royalblue;
+    color: white;
+    box-shadow: 4px black;
+    height: 40px;
+    width: auto;
+    padding: 18px;
+}
+
+div{
+    margin: 15px;
+}
